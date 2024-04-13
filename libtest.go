@@ -1,6 +1,6 @@
 package libtest
 
-import "lib-test/internal"
+import "github.com/deqinganz/lib-test/internal"
 
 type LibTest struct{}
 
